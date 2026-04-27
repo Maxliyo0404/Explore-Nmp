@@ -1,7 +1,12 @@
 function Header (){
     return (
         <>
-         <h1>salommmmm</h1>
+         <div className="header">
+            <div className="container">
+
+                
+            </div>
+         </div>
         </>
     )
 }
