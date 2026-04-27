@@ -1,9 +1,9 @@
-import header from "./Components/header/header"
+import Header from "./Components/Header/Header"
 function App (){
   return (
     <>
-       <header/>
+       <Header/>
     </>
   )
 }
-export default header;
+export default App;
