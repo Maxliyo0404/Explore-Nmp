@@ -6,7 +6,13 @@ function Header (){
           <div className="header">
             <div className="container">
                 <div className="header-container">
-                    <a href="#"><img src={Explorer_logo} alt="" /></a>
+                    <a className="logo" href="#"><img src={Explorer_logo} alt="logo" /></a>
+                    <ul className="header-list">
+                        <li><a className="header-item" href="#"></a></li>
+                        <li><a className="header-item" href="#"></a></li>
+                        <li><a className="header-item" href="#"></a></li>
+                        <li><a className="header-item" href="#"></a></li>
+                    </ul>
                 </div>
             </div>
           </div>
