@@ -19,6 +19,7 @@
     width: 150px;
     height: auto;
 }
-.eader-btns{
-    
+.header-btns{
+   display: flex;
+   align-items: center;
 }
