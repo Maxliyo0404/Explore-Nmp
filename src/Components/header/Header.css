@@ -1,0 +1,12 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.header-list{
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+.header-item
