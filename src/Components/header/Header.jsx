@@ -13,6 +13,9 @@ function Header (){
                         <li><a className="header-item" href="#">About</a></li>
                         <li><a className="header-item" href="#">Partner</a></li>
                     </ul>
+                    <div className="header-btns">
+                        <button></button>
+                    </div>
                 </div>
             </div>
           </div>
