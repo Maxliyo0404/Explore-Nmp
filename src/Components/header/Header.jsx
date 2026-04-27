@@ -13,7 +13,7 @@ function Header (){
                         <li><a className="header-item" href="#">About</a></li>
                         <li><a className="header-item" href="#">Partner</a></li>
                     </ul>
-                    <div className="header-btns">
+                    <div className="">
                         <button className="header-btne">Login</button>
                         <button className="header-btn">Register</button>
                     </div>
