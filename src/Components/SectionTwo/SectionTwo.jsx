@@ -3,9 +3,9 @@ import { IoLocationSharp } from "react-icons/io5";
 import { IoCalendarOutline } from "react-icons/io5";
 import { SlArrowRight } from "react-icons/sl";
 import two_rasm from "./image/two_rasm.svg";
-import two_rasm from "./image/two_rasm2.svg";
-import two_rasm from "./image/two_rasm3.svg";
-import two_rasm from "./image/two_rasm4.svg";
+import two_rasm2 from "./image/two_rasm2.svg";
+import two_rasm3 from "./image/two_rasm3.svg";
+import two_rasm4 from "./image/two_rasm4.svg";
 function SectionTwo (){
     return (
         <>

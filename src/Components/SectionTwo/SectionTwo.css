@@ -1,0 +1,28 @@
+.sectionTwo-wrapper{
+    padding: 60px 0;
+
+}
+.two-titles{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 56px;
+}
+.two-title{
+    max-width: 480px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+.two-text{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 33px;
+    color: #7D7987;
+}
