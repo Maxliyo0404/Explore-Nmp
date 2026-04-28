@@ -5,7 +5,10 @@ function SectionTwo (){
            <div className="sectionTwo">
             <div className="container">
                 <div className="sectionTwo-wrapper">
-                    
+                    <div className="two-titles">
+                        <h2 className="two-title">Featured destinations</h2>
+                        <h4 className="two-text"><span className="span"></span></h4>
+                    </div>
                 </div>
             </div>
            </div>
