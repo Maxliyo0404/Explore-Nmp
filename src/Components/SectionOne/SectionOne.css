@@ -1,7 +1,7 @@
 .sectionOne-wrapper{
     display: flex;
-    align-items: center;
-    justify-content: stretch;
+    align-items: stretch;
+    justify-content: space-between;
     padding: 40px 0;
 }
 .one-left{
@@ -12,8 +12,9 @@
 }
 .one-right{
     max-width: 45%;
-    padding-top: 60px;
+    margin-top: 100px;
     display: flex;
     align-items: start;
     flex-direction: column;
 }
+
