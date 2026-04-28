@@ -24,3 +24,13 @@
    align-items: center;
    gap: 18px;
 }
+.header-btne{
+    padding: 8px 36px;
+    border: 1px solid #FB8F1D;
+    border: none;
+    border-radius:8px ;
+    color: #FB8F1D;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+}
