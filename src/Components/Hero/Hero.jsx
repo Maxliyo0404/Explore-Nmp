@@ -1,5 +1,6 @@
 
 import "./Hero.css"
+import Hero_img from "./image/Hero_img.svg";
 function Hero (){
     return (
         <>
@@ -40,7 +41,7 @@ function Hero (){
                         </form>
                     </div>
                     <div className="hero-right">
-                        
+                     <img className="hero-rasm" src={ Hero_img } alt="hero" />
                     </div>
                 </div>
             </div>
