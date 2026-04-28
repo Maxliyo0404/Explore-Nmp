@@ -56,7 +56,26 @@
     padding: 12px 26px;
     border: 0.8px solid #AFB0B9;
     border-radius: 6px;
-    
+    outline: none;
+    &:hover{
+         border: 0.8px solid #e67e17;
+         transform: scale(0.9);
+    }
+}
+.form-btn{
+     width: 132px; 
+    height: 44px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    background: #FB8F1D;
+    color: #ffffff; 
+    font-weight: 500;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 .hero-right{
  max-width: 55%;
