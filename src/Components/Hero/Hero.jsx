@@ -7,6 +7,7 @@ function Hero (){
             <div className="container">
                 <div className="hero-wrapper">
                     <div className="hero-left">
+                        <h2 className="hero-title">Explore and Travel</h2>
                         
                     </div>
                 </div>
