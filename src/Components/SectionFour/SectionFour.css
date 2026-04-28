@@ -5,6 +5,17 @@
     font-weight: 700;
     font-size: 36px;
     line-height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     color: #000000;
+}
+.four-cards{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+.four-left{
+   
+    display: flex;
+    align-items: start;
+    flex-direction: column;
 }
