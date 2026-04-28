@@ -9,7 +9,7 @@ function Hero (){
                 <div className="hero-wrapper">
                     <div className="hero-left">
                         <h2 className="hero-title">Explore and Travel</h2>
-                         <h3>holiday finder</h3>
+                         <h3 className="hero-text">holiday finder</h3>
                          <div className="line"></div>
                         <form className="form">
                             <div className="selcts">

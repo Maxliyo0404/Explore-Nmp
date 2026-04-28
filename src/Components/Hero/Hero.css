@@ -29,6 +29,13 @@
     margin-bottom: 70px;
     color: #202336;
 }
+.hero-text{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 100%;
+    margin-bottom: 21px;
+    color: #202336;
+}
 .hero-right{
  max-width: 55%;
 }
