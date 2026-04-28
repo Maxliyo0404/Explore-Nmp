@@ -46,8 +46,11 @@
     gap: 20px;
 }
 .two-item{
-    max-width: 100%;
+     max-width: 100%;
      position: relative;
+     &:hover{
+        transform: scale(0.8);
+     }
 
 }
 .two-rasm{
