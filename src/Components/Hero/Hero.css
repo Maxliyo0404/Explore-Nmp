@@ -53,7 +53,9 @@
 }
 .select{
     width: 100%;
-    padding: 20px 26px;
+    padding: 12px 26px;
+    border: 0.8px solid #AFB0B9;
+    border-radius: 6px;
 }
 .hero-right{
  max-width: 55%;
