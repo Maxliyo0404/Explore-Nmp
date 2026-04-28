@@ -2,6 +2,8 @@ import "./SectionTwo.css";
 import { IoLocationSharp } from "react-icons/io5";
 import { IoCalendarOutline } from "react-icons/io5";
 import { SlArrowRight } from "react-icons/sl";
+import two_rasm from "./image/two_rasm.svg";
+import two_rasm from "./image/two_rasm2.svg";
 function SectionTwo (){
     return (
         <>
@@ -14,31 +16,27 @@ function SectionTwo (){
                     </div>
                     <ul className="two-list">
                         <li className="two-item">
-                        <img className="two-rasm" src={} alt="" />
-                        <span className="two-span">
-                            <h4 className="span-title"></h4>
-                             <p className="span-text"></p>
+                        <img className="two-rasm" src={two_rasm} alt="rasm" />
+                        <span className="two-spans">
+                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
-                        <img className="two-rasm" src={} alt="" />
-                        <span className="two-span">
-                            <h4 className="span-title"></h4>
-                             <p className="span-text"></p>
+                        <img className="two-rasm" src={two_rasm2} alt="" />
+                        <span className="two-spans">
+                            <h3 className="span-title">Fanjingshan<span className="two-span">China</span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
-                        <img className="two-rasm" src={} alt="" />
-                        <span className="two-span">
-                            <h4 className="span-title"></h4>
-                             <p className="span-text"></p>
+                        <img className="two-rasm" src={two_rasm3} alt="" />
+                        <span className="two-spans">
+                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
-                        <img className="two-rasm" src={} alt="" />
-                        <span className="two-span">
-                            <h4 className="span-title"></h4>
-                             <p className="span-text"></p>
+                        <img className="two-rasm" src={two_rasm4} alt="" />
+                        <span className="two-spans">
+                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
                         </span>
                         </li>
                     </ul>
