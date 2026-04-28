@@ -2,7 +2,13 @@ import "./SectionTwo.css";
 function SectionTwo (){
     return (
         <>
-        
+           <div className="sectionTwo">
+            <div className="container">
+                <div className="sectionTwo-wrapper">
+                    
+                </div>
+            </div>
+           </div>
         </>
     )
 }
