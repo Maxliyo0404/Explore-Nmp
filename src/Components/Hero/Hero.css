@@ -21,6 +21,16 @@
 .hero-left{
  max-width: 45%;
 }
+.hero-title{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+    margin-bottom: 70px;
+    color: #202336;
+}
 .hero-right{
  max-width: 55%;
+}
+.hero-rasm{
+    width: 98%;
 }
