@@ -4,6 +4,7 @@ import four_rasm from "./image/four_rasm.svg";
 import span1 from "./image/span1.svg";
 import span2 from "./image/span2.svg";
 import span3 from "./image/span3.svg";
+import span4 from "./image/span4.svg";
 function SectionFour (){
     return (
         <>
@@ -31,6 +32,7 @@ function SectionFour (){
                              <img className="span-rasm1" src={span2} alt="rasm" />
                              <img className="span-rasm2" src={span3} alt="rasm" />
                           </span>
+                          <img className="span-rasm" src={span4} alt="rasm" />
                         </span>
                       </div>
                     </div>
