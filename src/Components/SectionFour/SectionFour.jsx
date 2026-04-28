@@ -6,6 +6,7 @@ function SectionFour (){
           <div className="sectionFour">
             <div className="container">
                 <div className="sectionFour-wrapper">
+                    <h2 className="four-title">Testimonials</h2>
                     
                 </div>
             </div>
