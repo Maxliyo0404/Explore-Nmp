@@ -26,9 +26,11 @@
     color: #000000;
 }
 .one-text{
-    font-weight: 600;
-    font-size: 22px;
-    line-height: 100%;
-    margin-bottom: 15px;
-    color: #202336;
+    max-width: 400px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 33px;
+    color: #7D7987;
 }
+
