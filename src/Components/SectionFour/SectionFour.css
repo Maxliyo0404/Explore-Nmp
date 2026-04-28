@@ -14,6 +14,7 @@
     justify-content: space-between;
 }
 .four-left{
+    max-width: 50%;
     margin-top: 130px;
     display: flex;
     align-items: start;
@@ -53,4 +54,7 @@
     font-size: 18px;
     line-height: 48px;
     color: #000000D9; 
+}
+.four-right{
+    max-width: 50%;
 }
