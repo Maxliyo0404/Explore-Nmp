@@ -14,10 +14,11 @@
     font-size: 16px;
     line-height: 100%;
     color: #202336;
-    &:hover{
-        color: #FB8F1D;
-    }
 }
+.header-item:hover {
+    color: #e67e17;
+}
+
 .Explorer_logo{
     width: 150px;
     height: auto;
