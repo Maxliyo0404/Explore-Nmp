@@ -28,4 +28,29 @@
 .icon{
     font-size: 35px;
     color: #FFBB0C;
+    &:hover{
+        transform: scale(1.2);
+    }
+}
+.four-text{
+    max-width: 450px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 40px;
+    color: #000000;
+}
+.four-new{
+    max-width: 183px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    color: #000000; 
+   
+}
+.four-circel{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: #000000D9; 
 }

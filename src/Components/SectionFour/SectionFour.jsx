@@ -21,8 +21,7 @@ function SectionFour (){
                          <div className="icon"><HiStar /></div>
                         </div>
                         <p className="four-text">“Quisque in lacus a urna fermentum euismod. Integer mi nibh, dapibus ac scelerisque eu, facilisis quis purus. Morbi blandit sit amet turpis nec”</p>
-                        <h3 className="four-new">Edward Newgate</h3>
-                        <h4 className="four-circel">Founder Circle</h4>
+                        <h3 className="four-new">Edward Newgate <span className="four-circel">Founder Circle</span></h3>
                       </div>
                       <div className="four-right">
                         <img className="four-img" src={four_rasm} alt="rasm" />
