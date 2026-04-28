@@ -33,4 +33,24 @@
     margin-bottom: 33px;
     color: #7D7987;
 }
-
+.one-btn{
+     width: 132px; 
+    height: 44px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    background: #FB8F1D;
+    color: #ffffff; 
+    font-weight: 500;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    &:hover{
+        border: 1px solid #e67e17;
+        border-color: #e67e17;
+        box-shadow: 0 4px 10px rgba(251, 143, 29, 0.3);
+        transform: scale(1.1);
+    }
+}
