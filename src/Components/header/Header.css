@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px 0;
 
 }
 .header-list{
@@ -46,7 +47,7 @@
     padding: 0; 
 }
 .header-btn:hover {
-    background: #e67e17;
+   border: 1px solid #e67e17;
     border-color: #e67e17;
     box-shadow: 0 4px 10px rgba(251, 143, 29, 0.3);
     transform: scale(1.1);
