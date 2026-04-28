@@ -12,7 +12,14 @@ function SectionFive (){
                          <h2 className="five-title">Featured destinations</h2>
                          <h4 className="five-text">View all <br /><span className="spans"><SlArrowRight /></span></h4>
                     </div>
-                    <ul className=""></ul>
+                    <ul className="five-list">
+                        <li className="five-item">
+                            <img className="five-rasm" src={} alt="rasm" />
+                            <div className="five-titles">
+                                
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
           </div>
