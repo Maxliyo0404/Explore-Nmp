@@ -94,3 +94,9 @@
 .span-rasm2{
     width: 40%;
 }
+.span-rasme{
+    position: absolute;
+    width: 30%;
+    z-index: 6;
+}
+   
