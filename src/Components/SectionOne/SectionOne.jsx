@@ -1,5 +1,5 @@
 import "./SectionOne.css";
-import
+import one_rasm from "./image/one_rasm.svg";
 function SectionOne (){
     return (
         <>
@@ -7,7 +7,7 @@ function SectionOne (){
             <div className="container">
                 <div className="sectionOne-wrapper">
                     <div className="one-left">
-                        <img className="one-rasm" src={} alt="rasm" />
+                        <img className="one-rasm" src={one_rasm} alt="rasm" />
                     </div>
                 </div>
             </div>
