@@ -19,3 +19,9 @@
     align-items: start;
     flex-direction: column;
 }
+.four-icons{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
