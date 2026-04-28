@@ -57,4 +57,40 @@
 }
 .four-right{
     max-width: 50%;
+    position: relative;
+}
+.four-img{
+    max-width: 100%;
+    border-radius: 12px;
+    z-index: 3;
+    position: relative;
+}
+.four-spans{
+    position: relative;
+}
+.span-rasm{
+  position: absolute;
+  left: -15px;
+  z-index: 2;
+
+}
+.four-spane{
+    position: absolute;
+    padding: 12px;
+    z-index: 4;
+    left: -120px;
+    bottom: 0px;
+    right: 0px;
+    max-width: 132px;
+    background: #FFFFFF;
+    border-top-left-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.span-rasm1{
+    width: 40%;
+}
+.span-rasm2{
+    width: 40%;
 }

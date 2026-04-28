@@ -32,7 +32,7 @@ function SectionFour (){
                              <img className="span-rasm1" src={span2} alt="rasm" />
                              <img className="span-rasm2" src={span3} alt="rasm" />
                           </span>
-                          <img className="span-rasm" src={span4} alt="rasm" />
+                          <img className="span-rasme" src={span4} alt="rasm" />
                         </span>
                       </div>
                     </div>
