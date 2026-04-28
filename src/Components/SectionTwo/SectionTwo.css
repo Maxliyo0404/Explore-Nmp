@@ -9,20 +9,61 @@
     margin-bottom: 56px;
 }
 .two-title{
-    max-width: 480px;
     font-weight: 700;
     font-size: 36px;
     line-height: 50px;
-    margin-bottom: 20px;
     color: #000000;
 }
 .two-text{
     display: flex;
     align-items: center;
-    gap: 8px;
-    font-weight: 300;
+    justify-content: flex-end;
+    gap: 11px;
+    font-weight: 600;
     font-size: 17px;
-    line-height: 30px;
+    line-height: 60px;
     margin-bottom: 33px;
-    color: #7D7987;
+    color: #FB8F1D;
+    cursor: pointer;
+}
+.span{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    &:hover{
+        transform: scale(1.2);
+        color: #ffb159;
+    }
+    
+}
+.two-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+.two-item{
+    max-width: 100%;
+     position: relative;
+
+}
+.two-rasm{
+    max-width: 100%;
+    border-radius: 12px;
+    z-index: 1;
+}
+.two-spane{
+    position: absolute;
+    max-width:120px;
+    height: 56px;
+    background: #FFFFFF;
+    border-top-right-radius: 6px;
+    z-index: 2;
+    left:0%;
+    bottom: 7%;
+}
+.span-title{
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 25px;
+    color: #042521;
 }

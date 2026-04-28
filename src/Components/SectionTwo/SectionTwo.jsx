@@ -19,7 +19,7 @@ function SectionTwo (){
                     <ul className="two-list">
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm} alt="rasm" />
-                        <span className="two-spans">
+                        <span className="two-spane">
                             <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
                         </span>
                         </li>
