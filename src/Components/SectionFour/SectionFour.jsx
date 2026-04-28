@@ -1,5 +1,5 @@
 import "./SectionFour.css";
-
+import { HiStar } from "react-icons/hi";
 function SectionFour (){
     return (
         <>
@@ -10,8 +10,13 @@ function SectionFour (){
                     <div className="four-cards">
                       <div className="four-left">
                         <div className="four-icons">
-                          
+                         <div className="icon"><HiStar /></div>
+                         <div className="icon"><HiStar /></div>
+                         <div className="icon"><HiStar /></div>
+                         <div className="icon"><HiStar /></div>
+                         <div className="icon"><HiStar /></div>
                         </div>
+                        <p className="four-text">“Quisque in lacus a urna fermentum euismod. Integer mi nibh, dapibus ac scelerisque eu, facilisis quis purus. Morbi blandit sit amet turpis nec”</p>
                       </div>
                     </div>
                 </div>
