@@ -20,6 +20,27 @@ function SectionTwo (){
                              <p className="span-text"></p>
                         </span>
                         </li>
+                        <li className="two-item">
+                        <img className="two-rasm" src={} alt="" />
+                        <span className="two-span">
+                            <h4 className="span-title"></h4>
+                             <p className="span-text"></p>
+                        </span>
+                        </li>
+                        <li className="two-item">
+                        <img className="two-rasm" src={} alt="" />
+                        <span className="two-span">
+                            <h4 className="span-title"></h4>
+                             <p className="span-text"></p>
+                        </span>
+                        </li>
+                        <li className="two-item">
+                        <img className="two-rasm" src={} alt="" />
+                        <span className="two-span">
+                            <h4 className="span-title"></h4>
+                             <p className="span-text"></p>
+                        </span>
+                        </li>
                     </ul>
                 </div>
             </div>
