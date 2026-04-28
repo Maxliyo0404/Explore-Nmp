@@ -4,6 +4,8 @@ import { IoCalendarOutline } from "react-icons/io5";
 import { SlArrowRight } from "react-icons/sl";
 import two_rasm from "./image/two_rasm.svg";
 import two_rasm from "./image/two_rasm2.svg";
+import two_rasm from "./image/two_rasm3.svg";
+import two_rasm from "./image/two_rasm4.svg";
 function SectionTwo (){
     return (
         <>
@@ -30,13 +32,13 @@ function SectionTwo (){
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm3} alt="" />
                         <span className="two-spans">
-                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
+                            <h3 className="span-title">Vevey<span className="two-span">Switzerland </span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm4} alt="" />
                         <span className="two-spans">
-                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
+                            <h3 className="span-title">Skadar<span className="two-span">Montenegro</span> </h3>
                         </span>
                         </li>
                     </ul>
