@@ -11,7 +11,7 @@ function Hero (){
                          <h3>holiday finder</h3>
                          <div className="line"></div>
                         <form className="form">
-                           
+                            <div className="selcts">
                                 <select className="select" >
                                     <option >Location</option>
                                     <option >Abuja</option>
@@ -31,12 +31,16 @@ function Hero (){
                                 </select>
                           
                                 <select className="select" >
-                                    <option >Location</option>
-                                    <option >Abuja</option>
-                                    <option >Nigeria</option>
+                                    <option >Date</option>
+                                    <option >Aprel 2026</option>
+                                    <option >May 2026</option>
                                 </select>
-                          
+                              </div>
+                              <button className="form-btn">Explore</button>
                         </form>
+                    </div>
+                    <div className="hero-right">
+                        
                     </div>
                 </div>
             </div>
