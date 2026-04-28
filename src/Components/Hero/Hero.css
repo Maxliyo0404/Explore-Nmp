@@ -57,6 +57,10 @@
     border: 0.8px solid #AFB0B9;
     border-radius: 6px;
     outline: none;
+    color: #5e616a;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
     &:hover{
          border: 0.8px solid #e67e17;
          transform: scale(0.9);
