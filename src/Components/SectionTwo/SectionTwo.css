@@ -60,7 +60,8 @@
 }
 .two-spans{
     position: absolute;
-    max-width:120px;
+    max-width:140px;
+    padding: 2px;
     height: 56px;
     background: #FFFFFF;
     border-top-right-radius: 6px;
@@ -70,13 +71,14 @@
 }
 .span-title{
     font-weight: 600;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 25px;
     color: #042521;
 }
 .two-span{
+    max-width: 100%;
     font-weight: 600;
-    font-size: 17px;
-    line-height: 25px;
+    font-size: 14px;
+    line-height: 19px;
     color: #7b8281;
 }

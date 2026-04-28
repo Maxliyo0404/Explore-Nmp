@@ -14,31 +14,31 @@ function SectionTwo (){
                 <div className="sectionTwo-wrapper">
                     <div className="two-titles">
                         <h2 className="two-title">Featured destinations</h2>
-                        <h4 className="two-text">View all<span className="span"><SlArrowRight /></span></h4>
+                        <h4 className="two-text">View all <br /><span className="span"><SlArrowRight /></span></h4>
                     </div>
                     <ul className="two-list">
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm} alt="rasm" />
                         <span className="two-spans">
-                            <h3 className="span-title">Raja Ampat <span className="two-span">Indonesia</span> </h3>
+                            <h3 className="span-title">Raja Ampat <br /> <span className="two-span">Indonesia</span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm2} alt="" />
                         <span className="two-spans">
-                            <h3 className="span-title">Fanjingshan<span className="two-span">China</span> </h3>
+                            <h3 className="span-title">Fanjingshan <br /><span className="two-span">China</span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm3} alt="" />
                         <span className="two-spans">
-                            <h3 className="span-title">Vevey<span className="two-span">Switzerland </span> </h3>
+                            <h3 className="span-title">Vevey <br /><span className="two-span">Switzerland </span> </h3>
                         </span>
                         </li>
                         <li className="two-item">
                         <img className="two-rasm" src={two_rasm4} alt="" />
                         <span className="two-spans">
-                            <h3 className="span-title">Skadar<span className="two-span">Montenegro</span> </h3>
+                            <h3 className="span-title">Skadar <br /><span className="two-span">Montenegro</span> </h3>
                         </span>
                         </li>
                     </ul>
