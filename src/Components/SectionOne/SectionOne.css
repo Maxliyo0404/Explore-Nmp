@@ -50,6 +50,7 @@
     &:hover{
         border: 1px solid #e67e17;
         background: none;
+        color: #e67e17;
         border-color: #e67e17;
         box-shadow: 0 4px 10px rgba(251, 143, 29, 0.3);
         transform: scale(1.1);
