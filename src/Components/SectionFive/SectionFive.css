@@ -60,6 +60,7 @@
     border-top-right-radius: 12px;
     object-fit: cover;
     display: block;
+    margin-bottom: 15px;
 }
 .five-titles{
     display: flex;
