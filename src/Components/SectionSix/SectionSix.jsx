@@ -1,4 +1,4 @@
-import "/.SectionSix.css";
+import "./SectionSix.css";
 import six from "./image/six.svg"
 function SectionSix () {
     return (
@@ -13,7 +13,7 @@ function SectionSix () {
                          <a className="sixs" href="#">©2020 Thousand Sunny. All rights reserved</a>
                         </li>
                         <li className="six-item">
-                            <a className="six-link" href="#">Destinations</a>
+                            <a className="six-linke" href="#">Destinations</a>
                             <a className="six-link" href="#">Africa  </a>
                             <a className="six-link" href="#">Antarctica</a>
                             <a className="six-link" href="#">Asia</a>
@@ -21,7 +21,7 @@ function SectionSix () {
                             <a className="six-link" href="#">America</a>
                         </li>
                         <li className="six-item">
-                            <a className="six-link" href="#">Shop</a>
+                            <a className="six-linke" href="#">Shop</a>
                             <a className="six-link" href="#">Destination Guides  </a>
                             <a className="six-link" href="#">Pictorial & Gifts</a>
                             <a className="six-link" href="#">Special Offers </a>
@@ -29,7 +29,7 @@ function SectionSix () {
                             <a className="six-link" href="#"> FAQs</a>
                         </li>
                         <li className="six-item">
-                            <a className="six-link" href="#">Interests</a>
+                            <a className="six-linke" href="#">Interests</a>
                             <a className="six-link" href="#">Adventure Travel   </a>
                             <a className="six-link" href="#">Art And Culture</a>
                             <a className="six-link" href="#">Wildlife And Nature</a>

@@ -1,0 +1,37 @@
+.sectionSix-wrapper{
+    padding: 60px 0;
+}
+.six-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    align-items: stretch;
+}
+.six-item{
+     max-width: 100%;
+     display: flex;
+     align-items: start;
+     flex-direction: column;
+     gap: 10px;
+    
+
+}
+.six-linke{
+     font-weight: 700;
+    font-size: 19px;
+    line-height: 60px;
+    color: #000000;
+    margin-bottom: 5px;
+    &:hover{
+        color: blue;
+    }
+}
+.six-link{
+     font-weight: 300;
+    font-size: 18px;
+    line-height: 38px;
+    color: #848484;
+    &:hover{
+        color: rgb(144, 144, 250);
+    }
+}
