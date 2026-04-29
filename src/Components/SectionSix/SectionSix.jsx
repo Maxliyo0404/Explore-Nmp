@@ -37,8 +37,7 @@ function SectionSix () {
                             <a className="six-link" href="#">Food And Drink</a>
                         </li>
                     </ul>
-                    <hr />
-                    
+            
                 </div>
             </div>
          </div>
