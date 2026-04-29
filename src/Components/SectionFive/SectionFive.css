@@ -1,7 +1,7 @@
 .sectionFive-wrapper{
     padding: 60px 0;
 }
-.five-titles{
+.five-titlese{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -48,6 +48,8 @@
 .five-item{
      max-width: 100%;
      position: relative;
+     box-shadow: 4px 5px 8px gray;
+     padding: 5px;
      &:hover{
         transform: scale(0.8);
      }
@@ -77,14 +79,14 @@
 .five-texte{
      font-weight: 400;
     font-size: 15px;
-    line-height: 16px;
+    line-height: 26px;
     color: #7D7987;
     margin-bottom: 23px;
 }
 .link{
-     font-weight: 400;
+     font-weight: 600;
     font-size: 15px;
-    line-height: 16px;
-    color: #7D7987;
-    margin-bottom: 23px;
+    line-height: 28px;
+    color: #FB8F1D;
+    
 }
