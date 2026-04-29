@@ -27,6 +27,15 @@
     color: #848484;
     margin-bottom: 55px;
 }
+.sixs{
+     font-weight: 300;
+    font-size: 17px;
+    line-height: 28px;
+    color: #848484;
+     &:hover{
+        color: blue;
+    }
+}
 .six-linke{
      font-weight: 700;
     font-size: 19px;
