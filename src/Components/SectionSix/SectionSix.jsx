@@ -29,14 +29,16 @@ function SectionSix () {
                             <a className="six-link" href="#"> FAQs</a>
                         </li>
                         <li className="six-item">
-                            <a className="six-link" href="#"></a>
-                            <a className="six-link" href="#"></a>
-                            <a className="six-link" href="#"></a>
-                            <a className="six-link" href="#"></a>
-                            <a className="six-link" href="#"></a>
-                            <a className="six-link" href="#"></a>
+                            <a className="six-link" href="#">Interests</a>
+                            <a className="six-link" href="#">Adventure Travel   </a>
+                            <a className="six-link" href="#">Art And Culture</a>
+                            <a className="six-link" href="#">Wildlife And Nature</a>
+                            <a className="six-link" href="#">Family Holidays </a>
+                            <a className="six-link" href="#">Food And Drink</a>
                         </li>
                     </ul>
+                    <hr />
+                    
                 </div>
             </div>
          </div>
