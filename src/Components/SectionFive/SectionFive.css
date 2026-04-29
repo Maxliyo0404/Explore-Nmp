@@ -61,3 +61,8 @@
     object-fit: cover;
     display: block;
 }
+.five-titles{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
