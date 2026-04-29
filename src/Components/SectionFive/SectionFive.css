@@ -1,0 +1,59 @@
+.sectionFive-wrapper{
+    padding: 60px 0;
+}
+.five-titles{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 56px;
+}
+.five-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+.five-text{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 11px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    margin-bottom: 33px;
+    color: #FB8F1D;
+    cursor: pointer;
+     &:hover{
+        transform: scale(1.1);
+        color: #7b8281;
+    }
+}
+.spans{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    &:hover{
+        transform: scale(1.2);
+        color: #7b8281;
+    }
+    
+}
+.five-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    align-items: stretch;
+}
+.five-item{
+     max-width: 100%;
+     position: relative;
+     &:hover{
+        transform: scale(0.8);
+     }
+
+}
+.five-rasm{
+    max-width: 100%;
+    border: ;
+}

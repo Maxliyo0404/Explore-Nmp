@@ -13,7 +13,7 @@ function SectionFive (){
             <div className="container">
                 <div className="sectionFive-wrapper">
                       <div className="five-titles">
-                         <h2 className="five-title">Featured destinations</h2>
+                         <h2 className="five-title">Trending stories</h2>
                          <h4 className="five-text">View all <br /><span className="spans"><SlArrowRight /></span></h4>
                     </div>
                     <ul className="five-list">
