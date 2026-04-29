@@ -45,7 +45,7 @@ function SectionFive (){
                             <img className="five-rasm" src={five_rasm4} alt="rasm" />
                             <div className="five-titles">
                                 <h5 className="five-many">Surf’s up at these beginner spots around the world</h5>
-                                <p className="five-texte"></p>
+                                <p className="five-texte">If learning to surf has in on your to- do list for a while, the good news is: it’s never too late...</p>
                                 <a className="link" href="#">Read more</a>
                             </div>
                         </li>
